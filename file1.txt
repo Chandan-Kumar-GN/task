@@ -1,1 +1,2 @@
 echo "file 1 content"
+Conflicting content from feature branch
