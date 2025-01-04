@@ -1,2 +1,6 @@
 echo "file 1 content"
+<<<<<<< HEAD
+Conflicting content from feature branch
+=======
 Additional content in main branch
+>>>>>>> main
